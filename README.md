@@ -1,4 +1,4 @@
-# 02/09/2024 - INICIO CURSO HTML E CSS - DAY 1
+# 04/09/2024 - INICIO CURSO HTML E CSS - DAY 1
 
 ## 1 - Introdução 
 
