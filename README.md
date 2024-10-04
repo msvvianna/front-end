@@ -32,7 +32,6 @@
     }
 texto.addEventListener("click", mudar);
 </script>
-
 ```
 
 ## 3 - Instalando o editor de codigo VSCode
@@ -99,15 +98,15 @@ O HTML (HyperText Markup Language) é a linguagem padrão para criar páginas we
 
 ### Tags importantes dentro do <head>:
 
-- **<meta charset="UTF-8">:** Define a codificação de caracteres como UTF-8, que suporta quase todos os caracteres e símbolos.
-- **<meta name="viewport" content="width=device-width, initial-scale=1.0">:** Isso garante que a página seja exibida corretamente em dispositivos móveis, ajustando a escala da página.
-- **<title>:** Define o título da página que aparece na aba do navegador.
+- <meta charset="UTF-8">: Define a codificação de caracteres como UTF-8, que suporta quase todos os caracteres e símbolos.
+- <meta name="viewport" content="width=device-width, initial-scale=1.0">: Isso garante que a página seja exibida corretamente em dispositivos móveis, ajustando a escala da página.
+- <title>: Define o título da página que aparece na aba do navegador.
 
 ### <body>
 - A tag <body> contém todo o conteúdo visível da página, como texto, imagens, links e outros elementos. Tudo o que você vê em uma página web está dentro do <body>.
 
 ### Estrutura básica dentro do <body>:
-- **<header>:** Usado para definir o cabeçalho da página. Aqui, é comum colocar o título principal, logo ou menus de navegação.
+- <header>: Usado para definir o cabeçalho da página. Aqui, é comum colocar o título principal, logo ou menus de navegação.
 
 **Exemplo:**
 ```html
