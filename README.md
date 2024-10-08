@@ -231,3 +231,75 @@ Outras tags comuns
 ![alt text](image-12.png)
 
 ![alt text](image-13.png)
+
+# 08/10/2024 - INICIO CURSO HTML E CSS - DAY 2
+
+## 12 - Seletores CSS
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+## 13 - HTML exercicio 1
+
+![alt text](image-17.png)
+
+- exercicio_1
+
+## 14 - Blackground e blackground-color
+
+![alt text](image-18.png)
+
+## 15 - Box Model 1
+
+![alt text](image-19.png)
+
+![alt text](image-20.png)
+
+![alt text](image-21.png)
+
+## 16 - Box Model 2
+
+![alt text](image-22.png)
+
+## 17 - Estilos do Browser
+
+![alt text](image-23.png)
+
+![alt text](image-24.png)
+
+## 18 - Display
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+## 19 - Display exercicio 2
+
+![alt text](image-28.png)
+
+## 20 - CSS para iniciante
+
+![alt text](image-29.png)
+
+
+## 21 - Tag img 1
+
+![alt text](image-30.png)
+
+
+## 22 - Tag img 2
+
+- png 
+- svg (utiliza codigo vetorial)
+
+## 23 - Top, Right, Bottom, Left 
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
