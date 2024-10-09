@@ -18,10 +18,10 @@
 ![alt text](image-3.png)
 
 ```html
-<h0 id="texto">Olá Mundo.</h1>
+<h1 id="texto">Olá Mundo.</h1>
 
 <style>
-    h0 {
+    h1 {
         color: blue;
     }
 </style>
@@ -38,7 +38,7 @@ texto.addEventListener("click", mudar);
 
 ![alt text](image-4.png)
 
-## 3 - Brouwsers
+## 3 - Browsers
 
 ![alt text](image-5.png)
 
@@ -105,7 +105,7 @@ O HTML (HyperText Markup Language) é a linguagem padrão para criar páginas we
 **Exemplo:**
 ```html
 <header>
-  <h0>Bem-vindo à minha página</h1>
+  <h1>Bem-vindo à minha página</h1>
 </header>
 <main>: Contém o conteúdo principal da página. Deve ser único e relevante para o propósito da página.
 ```
@@ -123,12 +123,12 @@ O HTML (HyperText Markup Language) é a linguagem padrão para criar páginas we
   <p>Copyright &copy; 2023</p>
 </footer>
 Outras tags comuns
-<h0>, <h2>, ..., <h6>: Essas tags representam títulos e subtítulos de diferentes níveis. <h1> é o mais importante e <h6> o menos importante.
+<h1>, <h2>, ..., <h6>: Essas tags representam títulos e subtítulos de diferentes níveis. <h1> é o mais importante e <h6> o menos importante.
 ```
 
 **Exemplo:**
 ```html
-<h0>Título Principal</h1>
+<h1>Título Principal</h1>
 <h1>Subtítulo</h2>
 <p>: Define um parágrafo de texto. Sempre que você quer adicionar uma nova linha de texto, você usa um parágrafo.
 ```
