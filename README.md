@@ -1,4 +1,4 @@
-# 07/10/2024 - INICIO CURSO HTML E CSS - DAY 1
+# 09/10/2024 - INICIO CURSO HTML E CSS - DAY 1
 
 ## 0 - Introdução 
 
@@ -232,7 +232,7 @@ Outras tags comuns
 
 ![alt text](image-13.png)
 
-# 08/10/2024 - INICIO CURSO HTML E CSS - DAY 2
+# 10/10/2024 - INICIO CURSO HTML E CSS - DAY 2
 
 ## 12 - Seletores CSS
 
