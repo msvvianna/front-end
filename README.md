@@ -1,4 +1,4 @@
-# 09/10/2024 - INICIO CURSO HTML E CSS - DAY 1
+# 13/10/2024 - INICIO CURSO HTML E CSS - DAY 1
 
 ## 0 - Introdução 
 
@@ -11,11 +11,11 @@
 
 ## 1 - Entendendo html, css e javascript
 
-![alt text](image.png)
+![alt text](./images/image.png)
 
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 
 ```html
 <h1 id="texto">Olá Mundo.</h1>
@@ -36,23 +36,23 @@ texto.addEventListener("click", mudar);
 
 ## 2 - Instalando o editor de codigo VSCode
 
-![alt text](image-4.png)
+![alt text](./images/image-4.png)
 
 ## 3 - Browsers
 
-![alt text](image-5.png)
+![alt text](./images/image-5.png)
 
 ## 4 - Estrutura de codigo HTML
 
-![alt text](image-6.png)
+![alt text](./images/image-6.png)
 
-![alt text](image-7.png)
+![alt text](./images/image-7.png)
 
-![alt text](image-8.png)
+![alt text](./images/image-8.png)
 
 ## 5 - Tags comuns 
 
-![alt text](image-9.png)
+![alt text](./images/image-9.png)
 
 ## 6 - Estrutura basica codigo html
 
@@ -222,74 +222,74 @@ Outras tags comuns
 
 ## 10 - Links e caminhos
 
-![alt text](image-10.png)
+![alt text](./images/image-10.png)
 
-![alt text](image-11.png)
+![alt text](./images/image-11.png)
 
 ## 11 - Basico do CSS
 
-![alt text](image-12.png)
+![alt text](./images/image-12.png)
 
-![alt text](image-13.png)
+![alt text](./images/image-13.png)
 
-# 10/10/2024 - INICIO CURSO HTML E CSS - DAY 2
+# 14/10/2024 - INICIO CURSO HTML E CSS - DAY 2
 
 ## 12 - Seletores CSS
 
-![alt text](image-14.png)
+![alt text](./images/image-14.png)
 
-![alt text](image-15.png)
+![alt text](./images/image-15.png)
 
-![alt text](image-16.png)
+![alt text](./images/image-16.png)
 
 ## 13 - HTML exercicio 1
 
-![alt text](image-17.png)
+![alt text](./images/image-17.png)
 
 - exercicio_1
 
 ## 14 - Blackground e blackground-color
 
-![alt text](image-18.png)
+![alt text](./images/image-18.png)
 
 ## 15 - Box Model 1
 
-![alt text](image-19.png)
+![alt text](./images/image-19.png)
 
-![alt text](image-20.png)
+![alt text](./images/image-20.png)
 
-![alt text](image-21.png)
+![alt text](./images/image-21.png)
 
 ## 16 - Box Model 2
 
-![alt text](image-22.png)
+![alt text](./images/image-22.png)
 
 ## 17 - Estilos do Browser
 
-![alt text](image-23.png)
+![alt text](./images/image-23.png)
 
-![alt text](image-24.png)
+![alt text](./images/image-24.png)
 
 ## 18 - Display
 
-![alt text](image-25.png)
+![alt text](./images/image-25.png)
 
-![alt text](image-26.png)
+![alt text](./images/image-26.png)
 
-![alt text](image-27.png)
+![alt text](./images/image-27.png)
 
 ## 19 - Display exercicio 2
 
-![alt text](image-28.png)
+![alt text](./images/image-28.png)
 
 ## 20 - CSS para iniciante
 
-![alt text](image-29.png)
+![alt text](./images/image-29.png)
 
 
 ## 21 - Tag img 1
 
-![alt text](image-30.png)
+![alt text](./images/image-30.png)
 
 
 ## 22 - Tag img 2
@@ -299,7 +299,7 @@ Outras tags comuns
 
 ## 23 - Top, Right, Bottom, Left 
 
-![alt text](image-31.png)
+![alt text](./images/image-31.png)
 
-![alt text](image-32.png)
+![alt text](./images/image-32.png)
 
