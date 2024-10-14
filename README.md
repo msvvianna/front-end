@@ -1,4 +1,4 @@
-# 13/10/2024 - INICIO CURSO HTML E CSS - DAY 1
+# 14/10/2024 - INICIO CURSO HTML E CSS - DAY 1
 
 ## 0 - Introdução 
 
@@ -36,13 +36,15 @@ texto.addEventListener("click", mudar);
 
 ## 2 - Instalando o editor de codigo VSCode
 
-![alt text](./images/image-4.png)
+- https://code.visualstudio.com/download
 
 ## 3 - Browsers
 
-![alt text](./images/image-5.png)
+![alt text](./images/image-4.png)
 
 ## 4 - Estrutura de codigo HTML
+
+![alt text](./images/image-5.png)
 
 ![alt text](./images/image-6.png)
 
@@ -56,7 +58,7 @@ texto.addEventListener("click", mudar);
 
 ## 6 - Estrutura basica codigo html
 
-# Estrutura Básica do HTML
+## Estrutura Básica do HTML
 
 O HTML (HyperText Markup Language) é a linguagem padrão para criar páginas web. Ele descreve a estrutura da página usando uma série de elementos (ou tags). Esses elementos dizem ao navegador como exibir o conteúdo.
 
@@ -232,7 +234,7 @@ Outras tags comuns
 
 ![alt text](./images/image-13.png)
 
-# 14/10/2024 - INICIO CURSO HTML E CSS - DAY 2
+# 15/10/2024 - INICIO CURSO HTML E CSS - DAY 2
 
 ## 12 - Seletores CSS
 
