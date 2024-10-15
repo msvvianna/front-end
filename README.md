@@ -305,4 +305,4 @@ Outras tags comuns
 
 ![alt text](./images/image-32.png)
 
-# 16/10/2024 - INICIO CURSO HTML E CSS - DAY 3
+# 16/10/2024 - INÍCIO CURSO HTML E CSS - DAY 3
