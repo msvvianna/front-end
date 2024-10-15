@@ -251,7 +251,7 @@ Outras tags comuns
 - exercicio_1
 
 ```html
-<!index.html->
+index.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -268,7 +268,7 @@ Outras tags comuns
 </body>
 </html>
 
-<!rj.html->
+rj.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -287,7 +287,7 @@ Outras tags comuns
 </body>
 </html>
 
-<!sp.html->
+sp.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -361,6 +361,48 @@ h2 a {
 ## 19 - Display exercicio 2
 
 ![alt text](./images/image-28.png)
+
+```html
+index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carros e Bicicletas</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h1>Carros e Bicicletas</h1>
+    <div class="item">
+        <h2>Carro: <span>R$ 1999</span></h2>
+        <p>Carro Modelo <span>2045</span>, com <span>200KM</span></p>
+        <a href="/">Comprar Carro</a>
+    </div>
+    <div class="item">
+        <h2>Bicicleta: <span>R$ 199</span></h2>
+        <p>Bicicleta Modelo <span>2050</span>, com <span>20KM</span></p>
+        <a href="/">Comprar Bicicleta</a>
+    </div>
+    
+</body>
+</html>
+```
+```css
+/*style.css*/
+
+a {
+    color: black;
+    text-decoration: none; 
+}
+
+a {
+    font-size: 32px;
+    color: tomato;
+}
+
+```
 
 ## 20 - CSS para iniciante
 
