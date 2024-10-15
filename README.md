@@ -250,6 +250,84 @@ Outras tags comuns
 
 - exercicio_1
 
+```html
+<!index.html->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinema</title>
+    <link rel="stylesheet" href="/exercicio_1/cinema/css/style.css">
+</head>
+<body>
+    <h1>Cinema</h1>
+    <h2><a href="./estados/rj.html">Rio de Janeiro</a></h2>
+    <h2><a href="./estados/sp.html">São Paulo</a></h2>
+</body>
+</html>
+
+<!rj.html->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estados</title>
+    <link rel="stylesheet" href="/exercicio_1/cinema/css/style.css">
+</head>
+<body>
+    <a href="../index.html">Inicio</a>
+    <h1>Rio de Janeiro</h1>
+    <p class="hoje">Lisbela e o Prisioneiro - 20:00 - Hoje</p>
+    <p class="hoje">Meu nome não é Jhonny - 21:00 - Hoje</p>
+    <p class="amanha">O Cheiro do ralo - 15:00 - Amanhã</p>
+</body>
+</html>
+
+<!sp.html->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estados</title>
+    <link rel="stylesheet" href="/exercicio_1/cinema/css/style.css">
+</head>
+<body>
+    <a href="../index.html">Inicio</a>
+    <h1>São Paulo</h1>
+    <p class="hoje">Lisbela e o Prisioneiro - 20:00 - Hoje</p>
+    <p class="amanha">Meu nome não é Jhonny - 21:00 - Amanhã</p>
+    <p class="amanha">O Cheiro do ralo - 15:00 - Amanhã</p>
+</body>
+</html>
+```
+```css
+/*style.css*/
+
+.hoje {
+    color: darkred;
+}
+
+.amanha {
+    color: darkblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 a {
+    color: darkgreen;
+}
+
+
+```
+
 ## 14 - Blackground e blackground-color
 
 ![alt text](./images/image-18.png)
